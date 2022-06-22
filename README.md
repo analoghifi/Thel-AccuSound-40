@@ -1,4 +1,4 @@
-# Thel-AccuSound-40
+# Thel AccuSound 40
 Thel AccuSound 40 audio power amplifier (20 up to 250 Watts)  
 (the 'little sibling' of the <a href="https://github.com/analoghifi/Thel-AccuSound-100">AccuSound 100</a>)
   
